@@ -71,7 +71,7 @@ Execute o comando Maven para compilar e iniciar o projeto:
   mvn spring-boot:run
 ```
 
-4. **Acessar a API via:**  
+3. **Acessar a API via:**  
 
    Após iniciar o projeto, a API estará disponível no endereço:  
    [http://localhost:8080](http://localhost:8080).  
