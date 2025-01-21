@@ -2,7 +2,7 @@
 
 
 
-# API REST com Spring - Gerenciamento de Tópicos
+# API REST com Spring 
 
 Esta é uma API REST desenvolvida em Spring Framework, que implementa operações CRUD completas (Create, Read, Update, Delete) para gerenciar tópicos. A API segue as melhores práticas do modelo REST, incluindo validações de regras de negócio, persistência em uma base de dados relacional e autenticação/autorização.
 
